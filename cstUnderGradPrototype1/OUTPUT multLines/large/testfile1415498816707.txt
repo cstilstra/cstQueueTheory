@@ -1,0 +1,602 @@
+simStartTime = 1415498816708
+Driver: number of cashiers: 100
+Driver: number of lines: 100
+InitialQueue: number of customers = 500
+InitialQueue: dispersal range = 750ms - 1250ms
+Customer number 0 with 11 items, entry: 1415498816722 exit: 1415498816722 total: 0
+Customer number 1 with 14 items, entry: 1415498817632 exit: 1415498817732 total: 100
+Customer number 6 with 3 items, entry: 1415498825456 exit: 1415498825729 total: 273
+Customer number 4 with 5 items, entry: 1415498822849 exit: 1415498823228 total: 379
+Customer number 8 with 3 items, entry: 1415498827655 exit: 1415498827735 total: 80
+Customer number 5 with 11 items, entry: 1415498824318 exit: 1415498824737 total: 419
+Customer number 11 with 1 items, entry: 1415498830763 exit: 1415498831238 total: 475
+Customer number 3 with 18 items, entry: 1415498821251 exit: 1415498821729 total: 478
+Customer number 13 with 1 items, entry: 1415498833741 exit: 1415498833758 total: 17
+Customer number 7 with 14 items, entry: 1415498826236 exit: 1415498826733 total: 497
+Customer number 9 with 14 items, entry: 1415498829154 exit: 1415498829236 total: 82
+Customer number 2 with 20 items, entry: 1415498819560 exit: 1415498826887 total: 7327
+Customer number 15 with 2 items, entry: 1415498836394 exit: 1415498836763 total: 369
+Customer number 12 with 11 items, entry: 1415498832500 exit: 1415498832750 total: 250
+Customer number 14 with 5 items, entry: 1415498835570 exit: 1415498835760 total: 190
+Customer number 10 with 16 items, entry: 1415498829948 exit: 1415498830235 total: 287
+Customer number 19 with 1 items, entry: 1415498841705 exit: 1415498841766 total: 61
+Customer number 18 with 4 items, entry: 1415498840438 exit: 1415498840766 total: 328
+Customer number 16 with 8 items, entry: 1415498838295 exit: 1415498838761 total: 466
+Customer number 20 with 9 items, entry: 1415498843435 exit: 1415498843561 total: 126
+Customer number 22 with 5 items, entry: 1415498845609 exit: 1415498845768 total: 159
+Customer number 17 with 20 items, entry: 1415498839510 exit: 1415498839715 total: 205
+Customer number 21 with 17 items, entry: 1415498844762 exit: 1415498844766 total: 4
+Customer number 23 with 17 items, entry: 1415498847045 exit: 1415498847420 total: 375
+Customer number 26 with 9 items, entry: 1415498851447 exit: 1415498851773 total: 326
+Customer number 29 with 3 items, entry: 1415498854438 exit: 1415498854787 total: 349
+Customer number 24 with 15 items, entry: 1415498848999 exit: 1415498849277 total: 278
+Customer number 25 with 2 items, entry: 1415498850286 exit: 1415498857255 total: 6969
+Customer number 30 with 7 items, entry: 1415498855887 exit: 1415498856179 total: 292
+Customer number 33 with 4 items, entry: 1415498859755 exit: 1415498859887 total: 132
+Customer number 27 with 18 items, entry: 1415498852367 exit: 1415498852776 total: 409
+Customer number 32 with 6 items, entry: 1415498858592 exit: 1415498858805 total: 213
+Customer number 31 with 12 items, entry: 1415498857242 exit: 1415498857289 total: 47
+Customer number 28 with 19 items, entry: 1415498853530 exit: 1415498853687 total: 157
+Customer number 35 with 8 items, entry: 1415498862998 exit: 1415498863319 total: 321
+Customer number 38 with 5 items, entry: 1415498866510 exit: 1415498866824 total: 314
+Customer number 39 with 7 items, entry: 1415498867418 exit: 1415498867823 total: 405
+Customer number 34 with 16 items, entry: 1415498861597 exit: 1415498861817 total: 220
+Customer number 37 with 11 items, entry: 1415498865428 exit: 1415498865821 total: 393
+Customer number 42 with 3 items, entry: 1415498871613 exit: 1415498871826 total: 213
+Customer number 40 with 14 items, entry: 1415498868345 exit: 1415498868825 total: 480
+Customer number 36 with 19 items, entry: 1415498864366 exit: 1415498864709 total: 343
+Customer number 41 with 16 items, entry: 1415498870344 exit: 1415498871926 total: 1582
+Customer number 46 with 12 items, entry: 1415498877276 exit: 1415498877330 total: 54
+Customer number 47 with 5 items, entry: 1415498878346 exit: 1415498878829 total: 483
+Customer number 44 with 13 items, entry: 1415498874470 exit: 1415498874827 total: 357
+Customer number 45 with 12 items, entry: 1415498875895 exit: 1415498876175 total: 280
+Customer number 43 with 10 items, entry: 1415498872552 exit: 1415498881036 total: 8484
+Customer number 49 with 8 items, entry: 1415498881426 exit: 1415498882632 total: 1206
+Customer number 50 with 10 items, entry: 1415498882483 exit: 1415498882832 total: 349
+Customer number 51 with 6 items, entry: 1415498883963 exit: 1415498884172 total: 209
+Customer number 52 with 4 items, entry: 1415498885930 exit: 1415498887538 total: 1608
+Customer number 48 with 20 items, entry: 1415498879480 exit: 1415498879829 total: 349
+Customer number 54 with 5 items, entry: 1415498889186 exit: 1415498889188 total: 2
+Customer number 55 with 8 items, entry: 1415498890279 exit: 1415498890339 total: 60
+Customer number 53 with 16 items, entry: 1415498887187 exit: 1415498887369 total: 182
+Customer number 56 with 14 items, entry: 1415498891493 exit: 1415498891849 total: 356
+Customer number 57 with 15 items, entry: 1415498893466 exit: 1415498893873 total: 407
+Customer number 59 with 8 items, entry: 1415498896315 exit: 1415498896656 total: 341
+Customer number 58 with 11 items, entry: 1415498895412 exit: 1415498895875 total: 463
+Customer number 63 with 7 items, entry: 1415498901756 exit: 1415498901910 total: 154
+Customer number 64 with 4 items, entry: 1415498903695 exit: 1415498903911 total: 216
+Customer number 60 with 18 items, entry: 1415498897750 exit: 1415498898250 total: 500
+Customer number 61 with 15 items, entry: 1415498899017 exit: 1415498899172 total: 155
+Customer number 62 with 12 items, entry: 1415498900499 exit: 1415498902260 total: 1761
+Customer number 68 with 1 items, entry: 1415498909136 exit: 1415498909413 total: 277
+Customer number 65 with 10 items, entry: 1415498905405 exit: 1415498905410 total: 5
+Customer number 67 with 4 items, entry: 1415498908351 exit: 1415498908601 total: 250
+Customer number 69 with 4 items, entry: 1415498910860 exit: 1415498910914 total: 54
+Customer number 72 with 1 items, entry: 1415498913978 exit: 1415498914186 total: 208
+Customer number 66 with 19 items, entry: 1415498906805 exit: 1415498906911 total: 106
+Customer number 70 with 17 items, entry: 1415498911673 exit: 1415498912116 total: 443
+Customer number 73 with 11 items, entry: 1415498915796 exit: 1415498915926 total: 130
+Customer number 75 with 7 items, entry: 1415498918308 exit: 1415498918420 total: 112
+Customer number 76 with 5 items, entry: 1415498920013 exit: 1415498920428 total: 415
+Customer number 74 with 13 items, entry: 1415498917527 exit: 1415498917918 total: 391
+Customer number 71 with 18 items, entry: 1415498912465 exit: 1415498912622 total: 157
+Customer number 79 with 6 items, entry: 1415498922712 exit: 1415498922923 total: 211
+Customer number 83 with 1 items, entry: 1415498927416 exit: 1415498927629 total: 213
+Customer number 78 with 9 items, entry: 1415498921848 exit: 1415498921922 total: 74
+Customer number 81 with 9 items, entry: 1415498925089 exit: 1415498925424 total: 335
+Customer number 85 with 2 items, entry: 1415498929282 exit: 1415498929388 total: 106
+Customer number 77 with 16 items, entry: 1415498920919 exit: 1415498922723 total: 1804
+Customer number 84 with 7 items, entry: 1415498928412 exit: 1415498928427 total: 15
+Customer number 87 with 1 items, entry: 1415498932130 exit: 1415498932213 total: 83
+Customer number 80 with 17 items, entry: 1415498923999 exit: 1415498924423 total: 424
+Customer number 82 with 13 items, entry: 1415498926611 exit: 1415498926925 total: 314
+Customer number 86 with 13 items, entry: 1415498930574 exit: 1415498931046 total: 472
+Customer number 88 with 12 items, entry: 1415498932903 exit: 1415498932953 total: 50
+Customer number 90 with 7 items, entry: 1415498936574 exit: 1415498936795 total: 221
+Customer number 89 with 19 items, entry: 1415498934809 exit: 1415498934987 total: 178
+Customer number 91 with 16 items, entry: 1415498937649 exit: 1415498937941 total: 292
+Customer number 92 with 15 items, entry: 1415498939278 exit: 1415498939491 total: 213
+Customer number 95 with 6 items, entry: 1415498944188 exit: 1415498944464 total: 276
+Customer number 97 with 6 items, entry: 1415498945845 exit: 1415498945961 total: 116
+Customer number 94 with 15 items, entry: 1415498942457 exit: 1415498942947 total: 490
+Customer number 96 with 18 items, entry: 1415498945021 exit: 1415498945512 total: 491
+Customer number 93 with 20 items, entry: 1415498941107 exit: 1415498941444 total: 337
+Customer number 99 with 8 items, entry: 1415498949343 exit: 1415498949840 total: 497
+Customer number 98 with 14 items, entry: 1415498947567 exit: 1415498948023 total: 456
+Customer number 100 with 8 items, entry: 1415498950859 exit: 1415498951065 total: 206
+Customer number 101 with 11 items, entry: 1415498952419 exit: 1415498952814 total: 395
+Customer number 104 with 3 items, entry: 1415498956417 exit: 1415498956717 total: 300
+Customer number 103 with 6 items, entry: 1415498955083 exit: 1415498955471 total: 388
+Customer number 102 with 12 items, entry: 1415498953701 exit: 1415498954695 total: 994
+Customer number 106 with 7 items, entry: 1415498959025 exit: 1415498959273 total: 248
+Customer number 105 with 9 items, entry: 1415498957276 exit: 1415498957623 total: 347
+Customer number 112 with 7 items, entry: 1415498966558 exit: 1415498966651 total: 93
+Customer number 111 with 12 items, entry: 1415498964938 exit: 1415498965073 total: 135
+Customer number 107 with 19 items, entry: 1415498959905 exit: 1415498959974 total: 69
+Customer number 108 with 19 items, entry: 1415498961129 exit: 1415498961231 total: 102
+Customer number 109 with 12 items, entry: 1415498962532 exit: 1415498962978 total: 446
+Customer number 110 with 13 items, entry: 1415498964109 exit: 1415498964519 total: 410
+Customer number 113 with 4 items, entry: 1415498967753 exit: 1415498970644 total: 2891
+Customer number 116 with 8 items, entry: 1415498971915 exit: 1415498972118 total: 203
+Customer number 114 with 13 items, entry: 1415498969018 exit: 1415498969503 total: 485
+Customer number 117 with 11 items, entry: 1415498972851 exit: 1415498972886 total: 35
+Customer number 119 with 9 items, entry: 1415498974924 exit: 1415498975031 total: 107
+Customer number 118 with 8 items, entry: 1415498973859 exit: 1415498974007 total: 148
+Customer number 115 with 15 items, entry: 1415498970793 exit: 1415498971028 total: 235
+Customer number 120 with 17 items, entry: 1415498975989 exit: 1415498976421 total: 432
+Customer number 121 with 17 items, entry: 1415498977748 exit: 1415498978034 total: 286
+Customer number 123 with 13 items, entry: 1415498980247 exit: 1415498980381 total: 134
+Customer number 122 with 18 items, entry: 1415498979004 exit: 1415498979093 total: 89
+Customer number 126 with 8 items, entry: 1415498984427 exit: 1415498984516 total: 89
+Customer number 127 with 4 items, entry: 1415498985909 exit: 1415498986210 total: 301
+Customer number 124 with 11 items, entry: 1415498981913 exit: 1415498982395 total: 482
+Customer number 125 with 6 items, entry: 1415498982676 exit: 1415498988402 total: 5726
+Customer number 128 with 10 items, entry: 1415498987892 exit: 1415498988020 total: 128
+Customer number 130 with 4 items, entry: 1415498990649 exit: 1415498991023 total: 374
+Customer number 129 with 14 items, entry: 1415498989260 exit: 1415498989346 total: 86
+Customer number 131 with 1 items, entry: 1415498992088 exit: 1415498996255 total: 4167
+Customer number 133 with 9 items, entry: 1415498995163 exit: 1415498995528 total: 365
+Customer number 135 with 8 items, entry: 1415498997954 exit: 1415498998027 total: 73
+Customer number 134 with 11 items, entry: 1415498996736 exit: 1415498997107 total: 371
+Customer number 139 with 1 items, entry: 1415499002282 exit: 1415499002659 total: 377
+Customer number 132 with 18 items, entry: 1415498993534 exit: 1415498993791 total: 257
+Customer number 136 with 12 items, entry: 1415498998946 exit: 1415498999134 total: 188
+Customer number 142 with 1 items, entry: 1415499007241 exit: 1415499007735 total: 494
+Customer number 141 with 5 items, entry: 1415499005381 exit: 1415499005407 total: 26
+Customer number 140 with 11 items, entry: 1415499003856 exit: 1415499004035 total: 179
+Customer number 137 with 17 items, entry: 1415499000285 exit: 1415499000530 total: 245
+Customer number 138 with 20 items, entry: 1415499001379 exit: 1415499002965 total: 1586
+Customer number 146 with 8 items, entry: 1415499012876 exit: 1415499013239 total: 363
+Customer number 143 with 18 items, entry: 1415499008817 exit: 1415499009039 total: 222
+Customer number 145 with 8 items, entry: 1415499011967 exit: 1415499012222 total: 255
+Customer number 147 with 8 items, entry: 1415499014258 exit: 1415499014548 total: 290
+Customer number 148 with 6 items, entry: 1415499015772 exit: 1415499016179 total: 407
+Customer number 149 with 7 items, entry: 1415499016540 exit: 1415499016570 total: 30
+Customer number 151 with 3 items, entry: 1415499019644 exit: 1415499020050 total: 406
+Customer number 144 with 18 items, entry: 1415499009996 exit: 1415499010044 total: 48
+Customer number 150 with 13 items, entry: 1415499018019 exit: 1415499018146 total: 127
+Customer number 153 with 6 items, entry: 1415499022303 exit: 1415499022725 total: 422
+Customer number 152 with 18 items, entry: 1415499021127 exit: 1415499021553 total: 426
+Customer number 156 with 7 items, entry: 1415499027030 exit: 1415499027511 total: 481
+Customer number 154 with 16 items, entry: 1415499024296 exit: 1415499024668 total: 372
+Customer number 158 with 10 items, entry: 1415499029900 exit: 1415499030174 total: 274
+Customer number 155 with 17 items, entry: 1415499026261 exit: 1415499026557 total: 296
+Customer number 160 with 4 items, entry: 1415499033036 exit: 1415499033397 total: 361
+Customer number 159 with 10 items, entry: 1415499031591 exit: 1415499031800 total: 209
+Customer number 157 with 17 items, entry: 1415499028139 exit: 1415499028391 total: 252
+Customer number 162 with 7 items, entry: 1415499036293 exit: 1415499036718 total: 425
+Customer number 167 with 1 items, entry: 1415499043843 exit: 1415499044225 total: 382
+Customer number 161 with 17 items, entry: 1415499034567 exit: 1415499037350 total: 2783
+Customer number 166 with 8 items, entry: 1415499041923 exit: 1415499042273 total: 350
+Customer number 163 with 19 items, entry: 1415499037047 exit: 1415499037175 total: 128
+Customer number 164 with 17 items, entry: 1415499039015 exit: 1415499039366 total: 351
+Customer number 168 with 8 items, entry: 1415499045258 exit: 1415499045577 total: 319
+Customer number 169 with 7 items, entry: 1415499046915 exit: 1415499046981 total: 66
+Customer number 165 with 19 items, entry: 1415499040186 exit: 1415499040574 total: 388
+Customer number 172 with 2 items, entry: 1415499051589 exit: 1415499051788 total: 199
+Customer number 171 with 16 items, entry: 1415499050251 exit: 1415499050386 total: 135
+Customer number 170 with 15 items, entry: 1415499048806 exit: 1415499048987 total: 181
+Customer number 175 with 6 items, entry: 1415499055676 exit: 1415499055997 total: 321
+Customer number 174 with 9 items, entry: 1415499054272 exit: 1415499054290 total: 18
+Customer number 177 with 7 items, entry: 1415499057348 exit: 1415499057585 total: 237
+Customer number 173 with 12 items, entry: 1415499053394 exit: 1415499053513 total: 119
+Customer number 178 with 6 items, entry: 1415499059005 exit: 1415499059009 total: 4
+Customer number 176 with 14 items, entry: 1415499056561 exit: 1415499056761 total: 200
+Customer number 181 with 9 items, entry: 1415499062354 exit: 1415499062417 total: 63
+Customer number 180 with 8 items, entry: 1415499061599 exit: 1415499061888 total: 289
+Customer number 179 with 20 items, entry: 1415499060328 exit: 1415499060586 total: 258
+Customer number 185 with 1 items, entry: 1415499068233 exit: 1415499071195 total: 2962
+Customer number 183 with 11 items, entry: 1415499065947 exit: 1415499066089 total: 142
+Customer number 182 with 18 items, entry: 1415499064271 exit: 1415499064587 total: 316
+Customer number 186 with 5 items, entry: 1415499069086 exit: 1415499069094 total: 8
+Customer number 187 with 6 items, entry: 1415499070227 exit: 1415499070591 total: 364
+Customer number 184 with 12 items, entry: 1415499067253 exit: 1415499067398 total: 145
+Customer number 188 with 11 items, entry: 1415499071492 exit: 1415499071868 total: 376
+Customer number 190 with 7 items, entry: 1415499073654 exit: 1415499073955 total: 301
+Customer number 189 with 12 items, entry: 1415499072694 exit: 1415499073141 total: 447
+Customer number 191 with 11 items, entry: 1415499074738 exit: 1415499075089 total: 351
+Customer number 193 with 7 items, entry: 1415499077382 exit: 1415499077594 total: 212
+Customer number 192 with 11 items, entry: 1415499075799 exit: 1415499076099 total: 300
+Customer number 194 with 5 items, entry: 1415499078820 exit: 1415499079223 total: 403
+Customer number 196 with 10 items, entry: 1415499081804 exit: 1415499081836 total: 32
+Customer number 201 with 4 items, entry: 1415499088327 exit: 1415499088601 total: 274
+Customer number 197 with 20 items, entry: 1415499083309 exit: 1415499083596 total: 287
+Customer number 195 with 20 items, entry: 1415499080655 exit: 1415499081103 total: 448
+Customer number 199 with 12 items, entry: 1415499085473 exit: 1415499085877 total: 404
+Customer number 200 with 12 items, entry: 1415499087278 exit: 1415499087778 total: 500
+Customer number 198 with 19 items, entry: 1415499084479 exit: 1415499084850 total: 371
+Customer number 205 with 6 items, entry: 1415499093625 exit: 1415499093673 total: 48
+Customer number 203 with 12 items, entry: 1415499091424 exit: 1415499091715 total: 291
+Customer number 206 with 6 items, entry: 1415499094759 exit: 1415499094990 total: 231
+Customer number 204 with 16 items, entry: 1415499092544 exit: 1415499093024 total: 480
+Customer number 207 with 13 items, entry: 1415499095597 exit: 1415499095784 total: 187
+Customer number 202 with 15 items, entry: 1415499089820 exit: 1415499094033 total: 4213
+Customer number 208 with 16 items, entry: 1415499096820 exit: 1415499097284 total: 464
+Customer number 210 with 11 items, entry: 1415499099741 exit: 1415499099982 total: 241
+Customer number 209 with 17 items, entry: 1415499098034 exit: 1415499098324 total: 290
+Customer number 214 with 2 items, entry: 1415499105913 exit: 1415499106317 total: 404
+Customer number 211 with 10 items, entry: 1415499101697 exit: 1415499102018 total: 321
+Customer number 213 with 10 items, entry: 1415499104477 exit: 1415499104683 total: 206
+Customer number 212 with 20 items, entry: 1415499102663 exit: 1415499102892 total: 229
+Customer number 215 with 14 items, entry: 1415499107377 exit: 1415499107395 total: 18
+Customer number 218 with 8 items, entry: 1415499111808 exit: 1415499112220 total: 412
+Customer number 216 with 12 items, entry: 1415499109331 exit: 1415499109719 total: 388
+Customer number 222 with 4 items, entry: 1415499116883 exit: 1415499116970 total: 87
+Customer number 219 with 7 items, entry: 1415499113766 exit: 1415499113797 total: 31
+Customer number 217 with 13 items, entry: 1415499110934 exit: 1415499111116 total: 182
+Customer number 223 with 3 items, entry: 1415499118744 exit: 1415499118754 total: 10
+Customer number 227 with 2 items, entry: 1415499123507 exit: 1415499123835 total: 328
+Customer number 221 with 19 items, entry: 1415499115804 exit: 1415499115860 total: 56
+Customer number 220 with 19 items, entry: 1415499115047 exit: 1415499115063 total: 16
+Customer number 228 with 7 items, entry: 1415499124318 exit: 1415499124383 total: 65
+Customer number 225 with 9 items, entry: 1415499121553 exit: 1415499121850 total: 297
+Customer number 226 with 19 items, entry: 1415499122475 exit: 1415499122632 total: 157
+Customer number 229 with 10 items, entry: 1415499125541 exit: 1415499125774 total: 233
+Customer number 224 with 18 items, entry: 1415499120633 exit: 1415499121129 total: 496
+Customer number 230 with 8 items, entry: 1415499126750 exit: 1415499126868 total: 118
+Customer number 234 with 2 items, entry: 1415499132450 exit: 1415499132628 total: 178
+Customer number 231 with 13 items, entry: 1415499128532 exit: 1415499128642 total: 110
+Customer number 233 with 9 items, entry: 1415499131300 exit: 1415499131548 total: 248
+Customer number 232 with 12 items, entry: 1415499130314 exit: 1415499130815 total: 501
+Customer number 238 with 3 items, entry: 1415499138589 exit: 1415499138738 total: 149
+Customer number 236 with 16 items, entry: 1415499135127 exit: 1415499135439 total: 312
+Customer number 235 with 19 items, entry: 1415499133337 exit: 1415499133643 total: 306
+Customer number 240 with 4 items, entry: 1415499141729 exit: 1415499141835 total: 106
+Customer number 241 with 1 items, entry: 1415499143598 exit: 1415499143865 total: 267
+Customer number 239 with 11 items, entry: 1415499140555 exit: 1415499140678 total: 123
+Customer number 237 with 15 items, entry: 1415499136752 exit: 1415499137174 total: 422
+Customer number 243 with 11 items, entry: 1415499145903 exit: 1415499146006 total: 103
+Customer number 246 with 5 items, entry: 1415499149558 exit: 1415499150029 total: 471
+Customer number 245 with 8 items, entry: 1415499148522 exit: 1415499148744 total: 222
+Customer number 242 with 19 items, entry: 1415499144495 exit: 1415499144680 total: 185
+Customer number 248 with 7 items, entry: 1415499152653 exit: 1415499153076 total: 423
+Customer number 252 with 2 items, entry: 1415499156662 exit: 1415499156685 total: 23
+Customer number 247 with 15 items, entry: 1415499151353 exit: 1415499151605 total: 252
+Customer number 244 with 19 items, entry: 1415499147314 exit: 1415499147600 total: 286
+Customer number 251 with 8 items, entry: 1415499155634 exit: 1415499155747 total: 113
+Customer number 255 with 1 items, entry: 1415499159855 exit: 1415499159907 total: 52
+Customer number 249 with 16 items, entry: 1415499153441 exit: 1415499153701 total: 260
+Customer number 250 with 12 items, entry: 1415499154801 exit: 1415499155111 total: 310
+Customer number 257 with 2 items, entry: 1415499162640 exit: 1415499162910 total: 270
+Customer number 254 with 14 items, entry: 1415499159038 exit: 1415499159369 total: 331
+Customer number 258 with 4 items, entry: 1415499164054 exit: 1415499164164 total: 110
+Customer number 253 with 20 items, entry: 1415499157681 exit: 1415499157704 total: 23
+Customer number 259 with 3 items, entry: 1415499164837 exit: 1415499164923 total: 86
+Customer number 256 with 15 items, entry: 1415499161303 exit: 1415499161517 total: 214
+Customer number 262 with 2 items, entry: 1415499169264 exit: 1415499169749 total: 485
+Customer number 260 with 15 items, entry: 1415499165671 exit: 1415499165955 total: 284
+Customer number 261 with 3 items, entry: 1415499167435 exit: 1415499171647 total: 4212
+Customer number 265 with 1 items, entry: 1415499172843 exit: 1415499173217 total: 374
+Customer number 267 with 1 items, entry: 1415499174566 exit: 1415499174706 total: 140
+Customer number 263 with 12 items, entry: 1415499170845 exit: 1415499171344 total: 499
+Customer number 268 with 5 items, entry: 1415499176169 exit: 1415499176513 total: 344
+Customer number 264 with 14 items, entry: 1415499171847 exit: 1415499172110 total: 263
+Customer number 269 with 7 items, entry: 1415499178062 exit: 1415499178124 total: 62
+Customer number 271 with 6 items, entry: 1415499181440 exit: 1415499181892 total: 452
+Customer number 272 with 4 items, entry: 1415499183015 exit: 1415499183332 total: 317
+Customer number 266 with 17 items, entry: 1415499173777 exit: 1415499173970 total: 193
+Customer number 275 with 2 items, entry: 1415499187943 exit: 1415499188162 total: 219
+Customer number 270 with 19 items, entry: 1415499179952 exit: 1415499180408 total: 456
+Customer number 274 with 10 items, entry: 1415499186105 exit: 1415499186223 total: 118
+Customer number 273 with 13 items, entry: 1415499184649 exit: 1415499185144 total: 495
+Customer number 276 with 10 items, entry: 1415499189539 exit: 1415499189868 total: 329
+Customer number 278 with 6 items, entry: 1415499191632 exit: 1415499191919 total: 287
+Customer number 281 with 6 items, entry: 1415499195087 exit: 1415499195134 total: 47
+Customer number 282 with 1 items, entry: 1415499196681 exit: 1415499197134 total: 453
+Customer number 277 with 13 items, entry: 1415499190526 exit: 1415499190647 total: 121
+Customer number 280 with 9 items, entry: 1415499193805 exit: 1415499194134 total: 329
+Customer number 279 with 16 items, entry: 1415499192637 exit: 1415499192788 total: 151
+Customer number 283 with 5 items, entry: 1415499198663 exit: 1415499198869 total: 206
+Customer number 285 with 2 items, entry: 1415499201317 exit: 1415499201685 total: 368
+Customer number 284 with 10 items, entry: 1415499199819 exit: 1415499200150 total: 331
+Customer number 288 with 3 items, entry: 1415499206248 exit: 1415499206251 total: 3
+Customer number 286 with 13 items, entry: 1415499203282 exit: 1415499203652 total: 370
+Customer number 290 with 6 items, entry: 1415499209139 exit: 1415499209487 total: 348
+Customer number 289 with 10 items, entry: 1415499207988 exit: 1415499208363 total: 375
+Customer number 287 with 17 items, entry: 1415499204393 exit: 1415499204517 total: 124
+Customer number 293 with 2 items, entry: 1415499213024 exit: 1415499213025 total: 1
+Customer number 291 with 9 items, entry: 1415499210399 exit: 1415499210860 total: 461
+Customer number 292 with 8 items, entry: 1415499211359 exit: 1415499211457 total: 98
+Customer number 295 with 12 items, entry: 1415499214812 exit: 1415499215146 total: 334
+Customer number 295 with 12 items, entry: 1415499214812 exit: 1415499215146 total: 334
+Customer number 297 with 10 items, entry: 1415499216536 exit: 1415499216584 total: 48
+Customer number 300 with 2 items, entry: 1415499221364 exit: 1415499221532 total: 168
+Customer number 294 with 19 items, entry: 1415499213968 exit: 1415499214160 total: 192
+Customer number 296 with 14 items, entry: 1415499215580 exit: 1415499215583 total: 3
+Customer number 298 with 18 items, entry: 1415499217914 exit: 1415499218149 total: 235
+Customer number 299 with 14 items, entry: 1415499219849 exit: 1415499220198 total: 349
+Customer number 303 with 7 items, entry: 1415499226415 exit: 1415499226509 total: 94
+Customer number 301 with 13 items, entry: 1415499223267 exit: 1415499227009 total: 3742
+Customer number 305 with 8 items, entry: 1415499230340 exit: 1415499230542 total: 202
+Customer number 309 with 2 items, entry: 1415499235233 exit: 1415499235668 total: 435
+Customer number 310 with 1 items, entry: 1415499236278 exit: 1415499236669 total: 391
+Customer number 302 with 20 items, entry: 1415499224642 exit: 1415499225063 total: 421
+Customer number 304 with 17 items, entry: 1415499228399 exit: 1415499228493 total: 94
+Customer number 308 with 8 items, entry: 1415499233768 exit: 1415499233902 total: 134
+Customer number 306 with 18 items, entry: 1415499231240 exit: 1415499231464 total: 224
+Customer number 307 with 15 items, entry: 1415499232896 exit: 1415499233293 total: 397
+Customer number 313 with 1 items, entry: 1415499240368 exit: 1415499240509 total: 141
+Customer number 315 with 9 items, entry: 1415499242403 exit: 1415499242511 total: 108
+Customer number 314 with 12 items, entry: 1415499241433 exit: 1415499241681 total: 248
+Customer number 311 with 20 items, entry: 1415499237960 exit: 1415499238163 total: 203
+Customer number 312 with 17 items, entry: 1415499239258 exit: 1415499239554 total: 296
+Customer number 318 with 6 items, entry: 1415499245967 exit: 1415499246452 total: 485
+Customer number 317 with 10 items, entry: 1415499244729 exit: 1415499245059 total: 330
+Customer number 316 with 12 items, entry: 1415499243351 exit: 1415499243839 total: 488
+Customer number 322 with 2 items, entry: 1415499251152 exit: 1415499251531 total: 379
+Customer number 320 with 10 items, entry: 1415499249066 exit: 1415499249376 total: 310
+Customer number 319 with 9 items, entry: 1415499247811 exit: 1415499248187 total: 376
+Customer number 321 with 13 items, entry: 1415499250234 exit: 1415499250315 total: 81
+Customer number 323 with 14 items, entry: 1415499252900 exit: 1415499253146 total: 246
+Customer number 326 with 5 items, entry: 1415499257925 exit: 1415499258253 total: 328
+Customer number 324 with 20 items, entry: 1415499254438 exit: 1415499254520 total: 82
+Customer number 328 with 7 items, entry: 1415499260450 exit: 1415499260572 total: 122
+Customer number 330 with 7 items, entry: 1415499263162 exit: 1415499263631 total: 469
+Customer number 327 with 14 items, entry: 1415499258793 exit: 1415499259023 total: 230
+Customer number 325 with 18 items, entry: 1415499255945 exit: 1415499256251 total: 306
+Customer number 329 with 12 items, entry: 1415499262178 exit: 1415499262272 total: 94
+Customer number 331 with 14 items, entry: 1415499264569 exit: 1415499264743 total: 174
+Customer number 332 with 8 items, entry: 1415499265904 exit: 1415499266400 total: 496
+Customer number 337 with 1 items, entry: 1415499273056 exit: 1415499273432 total: 376
+Customer number 333 with 13 items, entry: 1415499267507 exit: 1415499267668 total: 161
+Customer number 339 with 1 items, entry: 1415499275384 exit: 1415499275591 total: 207
+Customer number 334 with 14 items, entry: 1415499268763 exit: 1415499269119 total: 356
+Customer number 335 with 14 items, entry: 1415499270353 exit: 1415499270368 total: 15
+Customer number 336 with 16 items, entry: 1415499271571 exit: 1415499271790 total: 219
+Customer number 342 with 4 items, entry: 1415499280055 exit: 1415499280467 total: 412
+Customer number 341 with 7 items, entry: 1415499278164 exit: 1415499278560 total: 396
+Customer number 338 with 16 items, entry: 1415499274014 exit: 1415499274214 total: 200
+Customer number 340 with 18 items, entry: 1415499276164 exit: 1415499277511 total: 1347
+Customer number 347 with 1 items, entry: 1415499287384 exit: 1415499287846 total: 462
+Customer number 343 with 13 items, entry: 1415499281679 exit: 1415499281687 total: 8
+Customer number 346 with 7 items, entry: 1415499285518 exit: 1415499285721 total: 203
+Customer number 349 with 1 items, entry: 1415499290157 exit: 1415499290568 total: 411
+Customer number 344 with 19 items, entry: 1415499283417 exit: 1415499283704 total: 287
+Customer number 345 with 11 items, entry: 1415499284366 exit: 1415499284858 total: 492
+Customer number 352 with 3 items, entry: 1415499293978 exit: 1415499294228 total: 250
+Customer number 348 with 15 items, entry: 1415499288357 exit: 1415499288597 total: 240
+Customer number 350 with 19 items, entry: 1415499291020 exit: 1415499291151 total: 131
+Customer number 353 with 15 items, entry: 1415499295369 exit: 1415499295728 total: 359
+Customer number 356 with 4 items, entry: 1415499299568 exit: 1415499299880 total: 312
+Customer number 355 with 8 items, entry: 1415499298711 exit: 1415499298903 total: 192
+Customer number 351 with 19 items, entry: 1415499292119 exit: 1415499292522 total: 403
+Customer number 354 with 14 items, entry: 1415499297184 exit: 1415499297636 total: 452
+Customer number 358 with 7 items, entry: 1415499302601 exit: 1415499302959 total: 358
+Customer number 357 with 10 items, entry: 1415499301271 exit: 1415499301599 total: 328
+Customer number 359 with 16 items, entry: 1415499304356 exit: 1415499304466 total: 110
+Customer number 365 with 2 items, entry: 1415499311332 exit: 1415499311454 total: 122
+Customer number 360 with 13 items, entry: 1415499306153 exit: 1415499306466 total: 313
+Customer number 364 with 5 items, entry: 1415499310225 exit: 1415499310687 total: 462
+Customer number 361 with 15 items, entry: 1415499306970 exit: 1415499307156 total: 186
+Customer number 362 with 16 items, entry: 1415499307885 exit: 1415499307983 total: 98
+Customer number 363 with 16 items, entry: 1415499308747 exit: 1415499308795 total: 48
+Customer number 369 with 2 items, entry: 1415499318109 exit: 1415499318397 total: 288
+Customer number 367 with 11 items, entry: 1415499314819 exit: 1415499314832 total: 13
+Customer number 371 with 3 items, entry: 1415499319843 exit: 1415499320343 total: 500
+Customer number 366 with 18 items, entry: 1415499312896 exit: 1415499313122 total: 226
+Customer number 368 with 12 items, entry: 1415499316789 exit: 1415499317191 total: 402
+Customer number 370 with 17 items, entry: 1415499318917 exit: 1415499318927 total: 10
+Customer number 372 with 19 items, entry: 1415499320922 exit: 1415499321047 total: 125
+Customer number 377 with 11 items, entry: 1415499328833 exit: 1415499328917 total: 84
+Customer number 373 with 20 items, entry: 1415499322218 exit: 1415499322690 total: 472
+Customer number 375 with 16 items, entry: 1415499325869 exit: 1415499326197 total: 328
+Customer number 379 with 11 items, entry: 1415499331028 exit: 1415499331058 total: 30
+Customer number 382 with 2 items, entry: 1415499335039 exit: 1415499335499 total: 460
+Customer number 374 with 20 items, entry: 1415499324015 exit: 1415499324471 total: 456
+Customer number 378 with 12 items, entry: 1415499329852 exit: 1415499329996 total: 144
+Customer number 376 with 17 items, entry: 1415499326947 exit: 1415499326947 total: 0
+Customer number 381 with 4 items, entry: 1415499333599 exit: 1415499336196 total: 2597
+Customer number 380 with 20 items, entry: 1415499331817 exit: 1415499331952 total: 135
+Customer number 384 with 12 items, entry: 1415499337191 exit: 1415499337413 total: 222
+Customer number 383 with 17 items, entry: 1415499336295 exit: 1415499336416 total: 121
+Customer number 385 with 16 items, entry: 1415499338377 exit: 1415499338702 total: 325
+Customer number 389 with 6 items, entry: 1415499343968 exit: 1415499344069 total: 101
+Customer number 387 with 11 items, entry: 1415499341260 exit: 1415499341652 total: 392
+Customer number 390 with 5 items, entry: 1415499345576 exit: 1415499345960 total: 384
+Customer number 386 with 19 items, entry: 1415499339971 exit: 1415499340276 total: 305
+Customer number 394 with 2 items, entry: 1415499350733 exit: 1415499351151 total: 418
+Customer number 388 with 15 items, entry: 1415499342583 exit: 1415499343083 total: 500
+Customer number 391 with 14 items, entry: 1415499347412 exit: 1415499347492 total: 80
+Customer number 393 with 9 items, entry: 1415499349905 exit: 1415499350281 total: 376
+Customer number 392 with 15 items, entry: 1415499348954 exit: 1415499349211 total: 257
+Customer number 395 with 10 items, entry: 1415499352113 exit: 1415499352566 total: 453
+Customer number 399 with 5 items, entry: 1415499357012 exit: 1415499357098 total: 86
+Customer number 402 with 1 items, entry: 1415499360050 exit: 1415499360493 total: 443
+Customer number 401 with 11 items, entry: 1415499359202 exit: 1415499359381 total: 179
+Customer number 400 with 10 items, entry: 1415499358138 exit: 1415499358460 total: 322
+Customer number 396 with 18 items, entry: 1415499353941 exit: 1415499354317 total: 376
+Customer number 397 with 18 items, entry: 1415499354697 exit: 1415499355098 total: 401
+Customer number 398 with 17 items, entry: 1415499355772 exit: 1415499356239 total: 467
+Customer number 403 with 19 items, entry: 1415499361538 exit: 1415499361896 total: 358
+Customer number 406 with 7 items, entry: 1415499366611 exit: 1415499366639 total: 28
+Customer number 404 with 16 items, entry: 1415499363335 exit: 1415499363649 total: 314
+Customer number 410 with 6 items, entry: 1415499371756 exit: 1415499371835 total: 79
+Customer number 407 with 17 items, entry: 1415499367570 exit: 1415499367745 total: 175
+Customer number 405 with 13 items, entry: 1415499364789 exit: 1415499370210 total: 5421
+Customer number 408 with 16 items, entry: 1415499369225 exit: 1415499369616 total: 391
+Customer number 413 with 2 items, entry: 1415499377128 exit: 1415499377181 total: 53
+Customer number 409 with 17 items, entry: 1415499370225 exit: 1415499370678 total: 453
+Customer number 411 with 16 items, entry: 1415499373405 exit: 1415499373694 total: 289
+Customer number 415 with 6 items, entry: 1415499379679 exit: 1415499379683 total: 4
+Customer number 417 with 1 items, entry: 1415499382524 exit: 1415499382843 total: 319
+Customer number 416 with 5 items, entry: 1415499380724 exit: 1415499381185 total: 461
+Customer number 418 with 3 items, entry: 1415499383865 exit: 1415499383888 total: 23
+Customer number 419 with 1 items, entry: 1415499385037 exit: 1415499385388 total: 351
+Customer number 412 with 13 items, entry: 1415499375364 exit: 1415499379334 total: 3970
+Customer number 414 with 14 items, entry: 1415499378871 exit: 1415499379262 total: 391
+Customer number 424 with 1 items, entry: 1415499393251 exit: 1415499393594 total: 343
+Customer number 421 with 12 items, entry: 1415499388242 exit: 1415499388522 total: 280
+Customer number 423 with 9 items, entry: 1415499391448 exit: 1415499391600 total: 152
+Customer number 420 with 16 items, entry: 1415499386715 exit: 1415499386748 total: 33
+Customer number 422 with 18 items, entry: 1415499389568 exit: 1415499389793 total: 225
+Customer number 426 with 6 items, entry: 1415499395493 exit: 1415499395751 total: 258
+Customer number 425 with 19 items, entry: 1415499394360 exit: 1415499394641 total: 281
+Customer number 427 with 18 items, entry: 1415499397322 exit: 1415499397704 total: 382
+Customer number 428 with 15 items, entry: 1415499399286 exit: 1415499399582 total: 296
+Customer number 430 with 16 items, entry: 1415499402335 exit: 1415499402507 total: 172
+Customer number 429 with 16 items, entry: 1415499400959 exit: 1415499401116 total: 157
+Customer number 434 with 6 items, entry: 1415499408391 exit: 1415499408853 total: 462
+Customer number 432 with 13 items, entry: 1415499405123 exit: 1415499405445 total: 322
+Customer number 431 with 19 items, entry: 1415499403611 exit: 1415499403758 total: 147
+Customer number 435 with 17 items, entry: 1415499409603 exit: 1415499409606 total: 3
+Customer number 433 with 19 items, entry: 1415499406708 exit: 1415499407103 total: 395
+Customer number 436 with 15 items, entry: 1415499411153 exit: 1415499411621 total: 468
+Customer number 437 with 11 items, entry: 1415499413120 exit: 1415499413218 total: 98
+Customer number 438 with 15 items, entry: 1415499414644 exit: 1415499414970 total: 326
+Customer number 439 with 14 items, entry: 1415499416431 exit: 1415499416583 total: 152
+Customer number 441 with 11 items, entry: 1415499420225 exit: 1415499420547 total: 322
+Customer number 440 with 20 items, entry: 1415499418335 exit: 1415499418359 total: 24
+Customer number 444 with 6 items, entry: 1415499425322 exit: 1415499425432 total: 110
+Customer number 445 with 5 items, entry: 1415499427056 exit: 1415499427210 total: 154
+Customer number 442 with 15 items, entry: 1415499422132 exit: 1415499422190 total: 58
+Customer number 443 with 20 items, entry: 1415499423936 exit: 1415499424268 total: 332
+Customer number 447 with 12 items, entry: 1415499430190 exit: 1415499430300 total: 110
+Customer number 448 with 9 items, entry: 1415499431609 exit: 1415499432004 total: 395
+Customer number 446 with 20 items, entry: 1415499428315 exit: 1415499428425 total: 110
+Customer number 451 with 12 items, entry: 1415499435193 exit: 1415499435584 total: 391
+Customer number 452 with 8 items, entry: 1415499436209 exit: 1415499436584 total: 375
+Customer number 453 with 9 items, entry: 1415499437622 exit: 1415499437851 total: 229
+Customer number 455 with 4 items, entry: 1415499440417 exit: 1415499440666 total: 249
+Customer number 450 with 16 items, entry: 1415499434110 exit: 1415499434443 total: 333
+Customer number 449 with 16 items, entry: 1415499432732 exit: 1415499433004 total: 272
+Customer number 456 with 5 items, entry: 1415499441380 exit: 1415499441444 total: 64
+Customer number 454 with 13 items, entry: 1415499438710 exit: 1415499439132 total: 422
+Customer number 461 with 2 items, entry: 1415499447884 exit: 1415499448247 total: 363
+Customer number 460 with 8 items, entry: 1415499447025 exit: 1415499447104 total: 79
+Customer number 457 with 15 items, entry: 1415499442627 exit: 1415499442852 total: 225
+Customer number 462 with 3 items, entry: 1415499449648 exit: 1415499450094 total: 446
+Customer number 459 with 15 items, entry: 1415499445716 exit: 1415499445946 total: 230
+Customer number 458 with 20 items, entry: 1415499443863 exit: 1415499444307 total: 444
+Customer number 464 with 11 items, entry: 1415499452831 exit: 1415499452952 total: 121
+Customer number 463 with 15 items, entry: 1415499450964 exit: 1415499451896 total: 932
+Customer number 465 with 17 items, entry: 1415499453726 exit: 1415499454026 total: 300
+Customer number 467 with 14 items, entry: 1415499456612 exit: 1415499456765 total: 153
+Customer number 466 with 14 items, entry: 1415499455310 exit: 1415499455642 total: 332
+Customer number 468 with 6 items, entry: 1415499457918 exit: 1415499463435 total: 5517
+Customer number 469 with 19 items, entry: 1415499459654 exit: 1415499459800 total: 146
+Customer number 471 with 9 items, entry: 1415499463081 exit: 1415499463488 total: 407
+Customer number 470 with 11 items, entry: 1415499461409 exit: 1415499461456 total: 47
+Customer number 474 with 5 items, entry: 1415499468102 exit: 1415499468334 total: 232
+Customer number 473 with 10 items, entry: 1415499466384 exit: 1415499466880 total: 496
+Customer number 476 with 2 items, entry: 1415499471163 exit: 1415499471382 total: 219
+Customer number 477 with 2 items, entry: 1415499472432 exit: 1415499472710 total: 278
+Customer number 472 with 16 items, entry: 1415499464616 exit: 1415499464956 total: 340
+Customer number 479 with 1 items, entry: 1415499475722 exit: 1415499476135 total: 413
+Customer number 475 with 15 items, entry: 1415499470018 exit: 1415499470430 total: 412
+Customer number 478 with 15 items, entry: 1415499473952 exit: 1415499474134 total: 182
+Customer number 480 with 18 items, entry: 1415499476649 exit: 1415499476762 total: 113
+Customer number 481 with 9 items, entry: 1415499478023 exit: 1415499478339 total: 316
+Customer number 484 with 9 items, entry: 1415499482902 exit: 1415499482966 total: 64
+Customer number 485 with 8 items, entry: 1415499484347 exit: 1415499484638 total: 291
+Customer number 486 with 4 items, entry: 1415499485856 exit: 1415499486139 total: 283
+Customer number 482 with 15 items, entry: 1415499479911 exit: 1415499480217 total: 306
+Customer number 488 with 6 items, entry: 1415499488408 exit: 1415499488736 total: 328
+Customer number 487 with 7 items, entry: 1415499487205 exit: 1415499488267 total: 1062
+Customer number 483 with 19 items, entry: 1415499481295 exit: 1415499481670 total: 375
+Customer number 490 with 5 items, entry: 1415499489994 exit: 1415499490236 total: 242
+Customer number 491 with 6 items, entry: 1415499491723 exit: 1415499491878 total: 155
+Customer number 489 with 4 items, entry: 1415499489219 exit: 1415499491846 total: 2627
+Customer number 493 with 4 items, entry: 1415499493497 exit: 1415499493950 total: 453
+Customer number 492 with 5 items, entry: 1415499492504 exit: 1415499492799 total: 295
+Customer number 494 with 4 items, entry: 1415499494528 exit: 1415499494981 total: 453
+Customer number 495 with 3 items, entry: 1415499495682 exit: 1415499495747 total: 65
+Customer number 497 with 3 items, entry: 1415499498395 exit: 1415499498467 total: 72
+InitialQueue: Finished releasing customers
+Cashier #35: Helped 4 customers
+Cashier #89: Helped 5 customers
+Cashier #17: Helped 13 customers
+Cashier #16: Helped 7 customers
+Cashier #78: Helped 5 customers
+Cashier #72: Helped 5 customers
+Cashier #12: Helped 5 customers
+Cashier #44: Helped 1 customers
+Cashier #11: Helped 4 customers
+Cashier #49: Helped 4 customers
+Cashier #75: Helped 7 customers
+Cashier #86: Helped 6 customers
+Cashier #79: Helped 4 customers
+Cashier #4: Helped 6 customers
+Cashier #54: Helped 3 customers
+Cashier #39: Helped 6 customers
+Cashier #47: Helped 6 customers
+Cashier #83: Helped 10 customers
+Cashier #91: Helped 7 customers
+Cashier #62: Helped 5 customers
+Cashier #74: Helped 1 customers
+Cashier #94: Helped 1 customers
+Cashier #77: Helped 2 customers
+Cashier #61: Helped 6 customers
+Cashier #36: Helped 7 customers
+Cashier #28: Helped 8 customers
+Cashier #56: Helped 10 customers
+Cashier #52: Helped 7 customers
+Cashier #14: Helped 3 customers
+Cashier #2: Helped 1 customers
+Cashier #22: Helped 7 customers
+Cashier #34: Helped 1 customers
+Cashier #38: Helped 3 customers
+Cashier #8: Helped 5 customers
+Cashier #13: Helped 6 customers
+Cashier #31: Helped 5 customers
+Cashier #85: Helped 5 customers
+Cashier #26: Helped 5 customers
+Cashier #15: Helped 6 customers
+Cashier #48: Helped 8 customers
+Cashier #90: Helped 5 customers
+Cashier #66: Helped 13 customers
+Cashier #65: Helped 5 customers
+Cashier #80: Helped 5 customers
+Cashier #41: Helped 4 customers
+Cashier #5: Helped 5 customers
+Cashier #97: Helped 2 customers
+Cashier #55: Helped 6 customers
+Cashier #57: Helped 5 customers
+Cashier #73: Helped 3 customers
+Cashier #23: Helped 6 customers
+Cashier #59: Helped 6 customers
+Cashier #87: Helped 7 customers
+Cashier #68: Helped 4 customers
+Cashier #95: Helped 6 customers
+Cashier #32: Helped 2 customers
+Cashier #37: Helped 6 customers
+Cashier #99: Helped 8 customers
+Cashier #88: Helped 1 customers
+Cashier #40: Helped 3 customers
+Cashier #30: Helped 4 customers
+Cashier #84: Helped 4 customers
+Cashier #29: Helped 8 customers
+Cashier #51: Helped 1 customers
+Cashier #98: Helped 5 customers
+Cashier #10: Helped 12 customers
+Cashier #9: Helped 4 customers
+Cashier #46: Helped 5 customers
+Cashier #25: Helped 1 customers
+Cashier #7: Helped 4 customers
+Cashier #92: Helped 3 customers
+Cashier #45: Helped 6 customers
+Cashier #50: Helped 5 customers
+Cashier #1: Helped 5 customers
+Cashier #24: Helped 7 customers
+Cashier #71: Helped 3 customers
+Cashier #0: Helped 4 customers
+Cashier #67: Helped 4 customers
+Cashier #81: Helped 4 customers
+Cashier #93: Helped 0 customers
+Cashier #82: Helped 7 customers
+Cashier #20: Helped 7 customers
+Cashier #63: Helped 6 customers
+Cashier #6: Helped 5 customers
+Cashier #21: Helped 3 customers
+Cashier #19: Helped 3 customers
+Cashier #76: Helped 5 customers
+Cashier #53: Helped 4 customers
+Cashier #33: Helped 7 customers
+Customer number 499 with 8 items, entry: 1415499502067 exit: 1415499502518 total: 451
+Cashier #3: Helped 5 customers
+Customer number 496 with 17 items, entry: 1415499496935 exit: 1415499497247 total: 312
+Cashier #69: Helped 4 customers
+Customer number 498 with 11 items, entry: 1415499500163 exit: 1415499500658 total: 495
+Cashier #58: Helped 3 customers
+Driver: custHelped= 500 numCust= 500
+simEndTime = 1415499506967
+sim run time = 690259ms

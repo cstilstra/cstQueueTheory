@@ -1,0 +1,69 @@
+simStartTime = 1415475689408
+Driver: number of cashiers: 10
+Driver: number of lines: 1
+InitialQueue: number of customers = 50
+InitialQueue: dispersal range = 750ms - 1250ms
+Customer number 0 with 5 items, entry: 1415475689408 exit: 1415475689408 total: 0
+Customer number 2 with 5 items, entry: 1415475691662 exit: 1415475691910 total: 248
+Customer number 3 with 12 items, entry: 1415475693530 exit: 1415475693811 total: 281
+Customer number 6 with 4 items, entry: 1415475698348 exit: 1415475698416 total: 68
+Customer number 5 with 8 items, entry: 1415475696404 exit: 1415475696413 total: 9
+Customer number 1 with 15 items, entry: 1415475690416 exit: 1415475690909 total: 493
+Customer number 4 with 9 items, entry: 1415475695454 exit: 1415475695912 total: 458
+Customer number 8 with 8 items, entry: 1415475701305 exit: 1415475701415 total: 110
+Customer number 11 with 5 items, entry: 1415475704890 exit: 1415475704923 total: 33
+Customer number 9 with 11 items, entry: 1415475702082 exit: 1415475702416 total: 334
+Customer number 14 with 3 items, entry: 1415475709012 exit: 1415475709029 total: 17
+Customer number 13 with 5 items, entry: 1415475707704 exit: 1415475707925 total: 221
+Customer number 7 with 17 items, entry: 1415475699921 exit: 1415475700217 total: 296
+Customer number 10 with 15 items, entry: 1415475703731 exit: 1415475703922 total: 191
+Customer number 16 with 4 items, entry: 1415475711724 exit: 1415475711829 total: 105
+Customer number 12 with 15 items, entry: 1415475706316 exit: 1415475706319 total: 3
+Customer number 19 with 5 items, entry: 1415475716434 exit: 1415475716484 total: 50
+Customer number 15 with 18 items, entry: 1415475710506 exit: 1415475710575 total: 69
+Customer number 20 with 7 items, entry: 1415475718036 exit: 1415475718084 total: 48
+Customer number 22 with 1 items, entry: 1415475721356 exit: 1415475721487 total: 131
+Customer number 17 with 16 items, entry: 1415475713404 exit: 1415475713428 total: 24
+Customer number 18 with 20 items, entry: 1415475714710 exit: 1415475714875 total: 165
+Customer number 21 with 15 items, entry: 1415475719420 exit: 1415475719434 total: 14
+Customer number 25 with 10 items, entry: 1415475724573 exit: 1415475724642 total: 69
+Customer number 28 with 7 items, entry: 1415475727294 exit: 1415475727439 total: 145
+Customer number 23 with 15 items, entry: 1415475722432 exit: 1415475722632 total: 200
+Customer number 24 with 13 items, entry: 1415475723354 exit: 1415475723638 total: 284
+Customer number 30 with 2 items, entry: 1415475730271 exit: 1415475730292 total: 21
+Customer number 29 with 18 items, entry: 1415475728728 exit: 1415475728788 total: 60
+Customer number 26 with 20 items, entry: 1415475725516 exit: 1415475725685 total: 169
+Customer number 27 with 20 items, entry: 1415475726494 exit: 1415475726687 total: 193
+Customer number 33 with 16 items, entry: 1415475733536 exit: 1415475733802 total: 266
+Customer number 32 with 19 items, entry: 1415475732583 exit: 1415475732708 total: 125
+Customer number 34 with 18 items, entry: 1415475734403 exit: 1415475734412 total: 9
+Customer number 31 with 18 items, entry: 1415475731648 exit: 1415475731695 total: 47
+Customer number 37 with 12 items, entry: 1415475738020 exit: 1415475738169 total: 149
+Customer number 41 with 6 items, entry: 1415475742812 exit: 1415475742953 total: 141
+Customer number 38 with 9 items, entry: 1415475739815 exit: 1415475739965 total: 150
+Customer number 35 with 19 items, entry: 1415475735677 exit: 1415475735912 total: 235
+Customer number 36 with 19 items, entry: 1415475737159 exit: 1415475737429 total: 270
+Customer number 43 with 7 items, entry: 1415475745673 exit: 1415475745809 total: 136
+Customer number 39 with 15 items, entry: 1415475740968 exit: 1415475740983 total: 15
+Customer number 44 with 7 items, entry: 1415475746957 exit: 1415475746976 total: 19
+Customer number 42 with 11 items, entry: 1415475744599 exit: 1415475744704 total: 105
+Customer number 40 with 18 items, entry: 1415475741749 exit: 1415475741843 total: 94
+InitialQueue: Finished releasing customers
+Cashier #2: Helped 5 customers
+Cashier #1: Helped 6 customers
+Cashier #3: Helped 4 customers
+Cashier #0: Helped 4 customers
+Cashier #8: Helped 6 customers
+Customer number 48 with 5 items, entry: 1415475753113 exit: 1415475753121 total: 8
+Cashier #4: Helped 5 customers
+Customer number 46 with 12 items, entry: 1415475749984 exit: 1415475750010 total: 26
+Cashier #5: Helped 4 customers
+Customer number 49 with 7 items, entry: 1415475753869 exit: 1415475753906 total: 37
+Cashier #7: Helped 5 customers
+Customer number 47 with 12 items, entry: 1415475751584 exit: 1415475751610 total: 26
+Cashier #9: Helped 5 customers
+Customer number 45 with 20 items, entry: 1415475748528 exit: 1415475748544 total: 16
+Cashier #6: Helped 6 customers
+Driver: custHelped= 50 numCust= 50
+simEndTime = 1415475759655
+sim run time = 70247ms
