@@ -11,7 +11,7 @@ Command line arguments:
 
 argument 1: true or false - true is a single line with multiple servers, false is one line per server with multiple servers
 
-argument 2: integer - number of cashiers
+argument 2: integer - number of servers
 
 argument 3: integer - number of customers
 
